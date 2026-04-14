@@ -71,12 +71,7 @@ This project was created using **Google Gemini AI** assistant prompts for:
 - ✅ **Error Resolution** - Debugging and fixing issues
 - ✅ **Automation Scripts** - Shell scripts for deployment
 - ✅ **Project Management** - Complete project lifecycle
-
-## 🚀 **One Command Deployment**
-
-```bash
-git clone https://github.com/auspicious27/AI-Driven-AutoScaling-Agent-on-AWS.git && cd AI-Driven-AutoScaling-Agent-on-AWS && chmod +x deploy-perfect.sh && ./deploy-perfect.sh
-```
+- 
 
 ## 📋 **Quick Setup**
 
