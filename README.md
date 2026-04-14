@@ -264,9 +264,5 @@ weasyprint --version
 
 ## 🎉 **Ready to Deploy!**
 
-**One command to rule them all:**
-```bash
-git clone https://github.com/auspicious27/AI-Driven-AutoScaling-Agent-on-AWS.git && cd AI-Driven-AutoScaling-Agent-on-AWS && chmod +x deploy-perfect.sh && ./deploy-perfect.sh
-```
 
 **Perfect for workshops, demos, and learning AWS auto-scaling!** 🚀
