@@ -188,8 +188,8 @@ pip3 install weasyprint
 
 ### **Step 5: Clone Repository**
 ```bash
-git clone https://github.com/auspicious27/AI-Driven-AutoScaling-Agent-on-AWS.git
-cd AI-Driven-AutoScaling-Agent-on-AWS
+git clone https://github.com/MansiWani9/AI-Drivrn-Auto-Scaling-Agent-On-AWS.git
+cd AI-Drivrn-Auto-Scaling-Agent-On-AWS
 ```
 
 ### **Step 6: Make Scripts Executable**
