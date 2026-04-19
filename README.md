@@ -260,4 +260,4 @@ weasyprint --version
 ## 🎉 **Ready to Deploy!**
 
 
-**Perfect for workshops, demos, and learning AWS auto-scaling!** 🚀
+
